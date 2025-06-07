@@ -1,4 +1,4 @@
----
+
 
 # Tumor Segmentation using Transfer Learning 🧠🧬
 
@@ -11,7 +11,7 @@ This project applies **transfer learning** techniques for **brain tumor segmenta
 * **Data Format**: Medical imaging data in `.nii` (NIfTI) format.
 * **Tools Used**: FastAI, PyTorch, OpenCV, NiBabel, and ImageIO.
 
----
+
 
 ## 📂 Dataset
 
