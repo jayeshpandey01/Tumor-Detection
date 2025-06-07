@@ -95,7 +95,7 @@ The notebook includes:
 
 ## 🧠 Author
 
-**Your Name**
+**Jayesh Pandey**
 Contributions to medical AI and image segmentation using open-source deep learning libraries.
 
 ---
